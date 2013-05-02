@@ -1,6 +1,6 @@
 
 
-sudo apt-get install git xclip alien openjdk-7-jdk
+sudo apt-get install emacs24 git xclip alien openjdk-7-jdk ghc cabal-install
 
 
 # With this setting we can now paste the content of
