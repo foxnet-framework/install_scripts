@@ -1,6 +1,6 @@
 
 
-sudo apt-get install guake emacs24 git xclip alien openjdk-7-jdk ghc cabal-install
+sudo apt-get install yakuake emacs24 git xclip alien openjdk-7-jdk ghc cabal-install
 
 
 # With this setting we can now paste the content of
